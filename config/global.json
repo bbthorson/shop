@@ -1,8 +1,8 @@
 {
     "applications": {
         "Shop": {
-          "applicationId": "TODO: see README.md for how to obtain",
-          "masterKey": "TODO: see README.md for how to obtain"
+          "applicationId": "NN7tNEfuXru6gQaNEodxYo2vwAM3nNE8q2qd3d8p",
+          "masterKey": "OQFJKP8QOIgFs5CX3oquEyT5dcIuWSOAnUBrsiNX"
         }, 
         "_default": {
             "link": "Shop"
