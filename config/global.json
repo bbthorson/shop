@@ -1,8 +1,8 @@
 {
     "applications": {
         "Shop": {
-          "applicationId": "kYs4J2dpS39eTK0vAYf7kemsUCyoOIafxcaZlKOn",
-          "masterKey": "YxW0j30xL3A3blvtsKp8wtnUmLRePDm13H0YYpn6"
+          "applicationId": "NN7tNEfuXru6gQaNEodxYo2vwAM3nNE8q2qd3d8p",
+          "masterKey": "OQFJKP8QOIgFs5CX3oquEyT5dcIuWSOAnUBrsiNX"
         }, 
         "_default": {
             "link": "Shop"
