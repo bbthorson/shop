@@ -4,6 +4,9 @@
           "applicationId": "NN7tNEfuXru6gQaNEodxYo2vwAM3nNE8q2qd3d8p",
           "masterKey": "OQFJKP8QOIgFs5CX3oquEyT5dcIuWSOAnUBrsiNX"
         }, 
+    "_default": {
+            "link": "gpstees"
+        }
 
     }, 
     "global": {
