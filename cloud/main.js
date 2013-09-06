@@ -56,7 +56,7 @@ app.post('/pay', function(req, res) {
     return Stripe.Charges.create({
       amount: order.calculateAmount(),
       description: order.get('name') +
-        ' <' + order.get('email') + ' > - Shop T-Shirt Order',
+        ' <' + order.get('email') + ' > - GPS Tees Order',
       currency: 'usd',
       customer: customer.id
     });
