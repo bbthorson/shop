@@ -1,6 +1,6 @@
 var config = {
     // Price in dollars for each shirt
-    price_per_shirt: 10,
+    price_per_shirt: 25,
 
     // Set to your Stripe publishable key. (The one here is for a test
     // account, which may or may not be working.)
